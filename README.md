@@ -6,3 +6,7 @@ CLI Requirements:-
    @angular-devkit/schematics    : 9.1.9
    @angular/cli                  : 9.1.9
    @ionic/angular-toolkit        : 2.2.0
+   
+To Run : 
+-- npm install
+-- ionic serve
